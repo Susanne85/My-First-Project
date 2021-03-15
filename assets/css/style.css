@@ -11,6 +11,8 @@ body {
 }
 
 .header {
+    position:sticky;
+    top:10px;
     padding: 20px;
     width:100%;
     background-color: #2a607c;
@@ -35,18 +37,17 @@ body {
     list-style-type: none;
     margin-right:20px;
 }
+
 .home{
-    padding: 20px;
-    margin-top: 80px;
-    width:100%;
+    display:flex;
+    width:80%;
+    margin-top: 30px;
     color: black;
 }
 
-.home-text {
-    display: inline-block;  
-}
 .home p {
-    float:right;
+    display:inline-flex;
+    align-items: center;
     margin-left: 30px;
     margin-bottom: 200px;
 }
@@ -54,12 +55,6 @@ body {
 a {
     color:#ffffff;
     text-decoration: none;
-}
-
-#box-fix {
-    position:fixed;
-    top:0;
-    left:0;
 }
 
 p {
