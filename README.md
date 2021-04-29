@@ -24,5 +24,5 @@ The link to the application is : https://susanne85.github.io/my-First-Project/
 **Contact information**
 
 Susanne Bilney 
-email: mailto:xkqk2010@gmail.com)
+email: xkqk2010@gmail.com)
 
