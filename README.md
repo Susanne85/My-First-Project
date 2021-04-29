@@ -1,6 +1,6 @@
 Kojonup Historical Society Web page
 
-This web page outlines what the Kojonup Historical Society provides to the community.
+This web page outlines the purpose of the Kojonup Historical Society and the events that the Society organises for the community.
 
 **Link**
 
