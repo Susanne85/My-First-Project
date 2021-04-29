@@ -8,15 +8,21 @@ The link to the application is : https://susanne85.github.io/my-First-Project/
 
 
 **Technologies Utilised**
-. HTML and CSS
+
+. HTML 
+
+. CSS
 
 **Application Display**
 
 ![Initial display](./assets/images/01-myFirstProject.png)
 
 **Liscense**
+
 . MIT
 
 **Contact information**
-Susanne Bilney
-email: ![Contact Information](mailto:xkqk2010@gmail.com)
+
+Susanne Bilney 
+email: mailto:xkqk2010@gmail.com)
+
